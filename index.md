@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Android Applications
 
-You can use the [editor on GitHub](https://github.com/als10/als10.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### [Cricket Career Statistics Tracker](https://play.google.com/store/apps/details?id=com.alstondmello.cricketcareertracker)
+An app intended for cricketers who want to calculate their statistics from the matches they play. Has a 4.2-star rating and over 5000 downloads.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Climb](https://play.google.com/store/apps/details?id=com.AlstonDmello.Climb)
+An Android game with simple controls, in which a player a required to climb up a building without clicking in the wrong direction to score points. Created using Unity and all graphics were self-designed.
 
-### Markdown
+### [Coffee Farm Calculators](https://play.google.com/store/apps/details?id=com.estate.android.fertilizerpro)
+An app for coffee farmers, to help with various calculations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Python Projects
 
-# Header 1
-## Header 2
-### Header 3
+### [Course Central](https://github.com/als10/course-central)
+An online course management system, created with Python and MySQL. It has a GUI that has been implemented using PyQt5. This project demonstrates MySQL connectivity with Python.
 
-- Bulleted
-- List
+### [tic-tac-toe](https://github.com/als10/tictactoe)
+An AI, which makes use of the minimax algorithm, that never loses a game of tic-tac-toe.
 
-1. Numbered
-2. List
+### [ATM](https://github.com/als10/atm)
+Python program that demonstrates the working of an ATM with withdraw and deposit functions.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/als10/als10.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [Fab4 Bot](https://github.com/als10/fab4-bot)
+Reddit bot that provides a link to Martin Crowe's article about the Fab 4, whenever a Reddit user suggests adding a new player to the exclusive club. 
