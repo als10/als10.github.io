@@ -1,3 +1,12 @@
+# Projects
+
+## Web Applications
+
+### [Side Project Ideas](https://github.com/als10/side-project-ideas)
+A React web app, built with Node/Express backend, that performs CRUD operations.
+
+
+
 ## Android Applications
 
 ### [Cricket Career Statistics Tracker](https://play.google.com/store/apps/details?id=com.alstondmello.cricketcareertracker)
@@ -24,3 +33,10 @@ Python program that demonstrates the working of an ATM with withdraw and deposit
 
 ### [Fab4 Bot](https://github.com/als10/fab4-bot)
 Reddit bot that provides a link to Martin Crowe's article about the Fab 4, whenever a Reddit user suggests adding a new player to the exclusive club. 
+
+
+
+## Courses
+
+### [Full Stack Open 2021](https://github.com/als10/full-stack-open)
+My solutions for the exercises in the Full Stack Open course by the University of Helsinki.
