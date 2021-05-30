@@ -9,6 +9,9 @@ A React web app, built with Node/Express backend, that performs CRUD operations.
 
 ## Android Applications
 
+### [Workout Tracker](https://github.com/als10/workout-tracker)
+A mobile app, made using Flutter, that allows users to log their workouts.
+
 ### [Cricket Career Statistics Tracker](https://play.google.com/store/apps/details?id=com.alstondmello.cricketcareertracker)
 An app for cricketers who want to calculate their statistics from the matches they play. Has a 4.2-star rating and over 5000 downloads.
 
